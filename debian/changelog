@@ -1,0 +1,32 @@
+ros-jazzy-leo-simulator (2.0.1-1trixie) trixie; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Thu, 07 Nov 2024 16:00:00 -0000
+
+ros-jazzy-leo-simulator (2.0.0-1trixie) trixie; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Fri, 26 Apr 2024 16:00:00 -0000
+
+ros-jazzy-leo-simulator (1.1.0-1trixie) trixie; urgency=high
+
+
+
+ -- Fictionlab <support@fictionlab.pl>  Fri, 26 Apr 2024 16:00:00 -0000
+
+ros-jazzy-leo-simulator (1.0.0-1trixie) trixie; urgency=high
+
+  * Add missing dependencies and better descriptions
+  * CMakeLists cleanup
+  * Update package.xml files and copyright notices
+  * Format XML files
+  * Add CI (#1 <https://github.com/LeoRover/leo_simulator-ros2/issues/1>)
+  * Add package descriptions
+  * first semi-stable version
+  * Contributors: Błażej Sowa, Jan Hernas
+
+ -- Fictionlab <support@fictionlab.pl>  Tue, 07 Nov 2023 16:00:00 -0000
+
+
